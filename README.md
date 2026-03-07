@@ -1,1 +1,2 @@
-# ödev-1
+# veri organizasyonu
+
